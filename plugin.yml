@@ -1,0 +1,7 @@
+name: MobRacers
+main: me.winterguardian.mobracers.MobRacersPlugin
+version: ${pluginversion}
+description: A minecraft race game with mobs as vehicles !
+author: WinterGuardian - EDITED BY MAJORPROBES
+softdepend: [PlaceHolderAPI, Vault]
+load: POSTWORLD
